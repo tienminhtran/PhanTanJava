@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JPA_ORM_Student" />
+        <module name="JSON_S" />
+        <module name="FILE_JSON_LUYEN" />
+        <module name="Neo4jNorthwind" />
+        <module name="Chap2DM" />
+        <module name="Neo4j" />
+        <module name="Neo4j_CoDeMo" />
+        <module name="JPA_ORM" />
+        <module name="Neo4jNorthwindTien" />
+        <module name="FILE_JSON" />
+        <module name="chap2DeMo" />
+        <module name="TranMinhTien_21010611_Day2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CHAP" target="21" />
+      <module name="Chap" target="1.8" />
+      <module name="chap2DeMo" target="21" />
+      <module name="Chap2DM" target="21" />
+      <module name="DeMoChap2" target="1.5" />
+      <module name="DemoTruocTet" target="21" />
+      <module name="GGGG" target="21" />
+      <module name="JPA_DeMo" target="21" />
+      <module name="JPA_Tien" target="21" />
+      <module name="JPATien" target="21" />
+      <module name="Neo4l" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

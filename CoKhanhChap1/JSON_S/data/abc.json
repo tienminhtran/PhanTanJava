@@ -1,0 +1,24 @@
+[
+  {
+    "lastName": "Le",
+    "firstName": "Ti",
+    "age": 20
+  },
+  {
+    "lastName": "Le",
+    "firstName": "Le",
+    "age": 23,
+    "address": {
+      "streetAddress": "12455 nguyen Van Bao",
+      "city": "P4",
+      "state": "GV HCM",
+      "postalCode": 10000
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "123456789"
+      }
+    ]
+  }
+]

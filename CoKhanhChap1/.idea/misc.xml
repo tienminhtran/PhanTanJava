@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DeMoCoThucHanh/DeMiChap2/pom.xml" />
+        <option value="$PROJECT_DIR$/DeMoChap2/pom.xml" />
+        <option value="$PROJECT_DIR$/deMoChap2/pom.xml" />
+        <option value="$PROJECT_DIR$/chap2DeMo/pom.xml" />
+        <option value="$PROJECT_DIR$/Chap2DM/pom.xml" />
+        <option value="$PROJECT_DIR$/CHAP/pom.xml" />
+        <option value="$PROJECT_DIR$/Chap/pom.xml" />
+        <option value="$PROJECT_DIR$/TranMinhTien_21010611_Day2/pom.xml" />
+        <option value="$PROJECT_DIR$/DemoTruocTet/pom.xml" />
+        <option value="$PROJECT_DIR$/Neo4l/pom.xml" />
+        <option value="$PROJECT_DIR$/Neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/JSON_S/pom.xml" />
+        <option value="$PROJECT_DIR$/FILE_JSON/pom.xml" />
+        <option value="$PROJECT_DIR$/FILE_JSON_LUYEN/pom.xml" />
+        <option value="$PROJECT_DIR$/Neo4j_CoDeMo/pom.xml" />
+        <option value="$PROJECT_DIR$/Neo4jNorthwind/pom.xml" />
+        <option value="$PROJECT_DIR$/Neo4jNorthwindTien/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_ORM_Student/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_ORM/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_Tien/pom.xml" />
+        <option value="$PROJECT_DIR$/JPATien/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_DeMo/pom.xml" />
+        <option value="$PROJECT_DIR$/GGGG/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/CHAP/pom.xml" />
+        <option value="$PROJECT_DIR$/Chap2DM/pom.xml" />
+        <option value="$PROJECT_DIR$/DeMoChap2/pom.xml" />
+        <option value="$PROJECT_DIR$/DeMoCoThucHanh/DeMiChap2/pom.xml" />
+        <option value="$PROJECT_DIR$/JPA_Tien/pom.xml" />
+        <option value="$PROJECT_DIR$/Neo4l/pom.xml" />
+        <option value="$PROJECT_DIR$/chap2DeMo/pom.xml" />
+        <option value="$PROJECT_DIR$/deMoChap2/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

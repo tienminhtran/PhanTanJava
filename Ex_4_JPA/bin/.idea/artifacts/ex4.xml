@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ex4">
+    <output-path>$PROJECT_DIR$/../Ex_4_JPA_CLIENT/LIB</output-path>
+    <root id="archive" name="ex4.jar">
+      <element id="directory" name="entity">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/Course.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/Person.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/OfficeAssignment.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/OnsiteCourse.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/Department.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/Instructor.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/OnlineCourse.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/StudentGrade.java" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/entity/Student.java" />
+      </element>
+    </root>
+  </artifact>
+</component>

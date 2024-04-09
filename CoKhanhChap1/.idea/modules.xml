@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CKhanhChap1/CKhanhChap1.iml" filepath="$PROJECT_DIR$/CKhanhChap1/CKhanhChap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chap1/Chap1.iml" filepath="$PROJECT_DIR$/Chap1/Chap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoKhanhChap1.iml" filepath="$PROJECT_DIR$/CoKhanhChap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeMo/DeMo.iml" filepath="$PROJECT_DIR$/DeMo/DeMo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeMoCoThucHanh/DeMoCoThucHanh.iml" filepath="$PROJECT_DIR$/DeMoCoThucHanh/DeMoCoThucHanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoTruocTet.iml" filepath="$PROJECT_DIR$/DemoTruocTet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TranMinhTien_21010611_Day_1/NopThucHanh.iml" filepath="$PROJECT_DIR$/TranMinhTien_21010611_Day_1/NopThucHanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamDeMo/StreamDeMo.iml" filepath="$PROJECT_DIR$/StreamDeMo/StreamDeMo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deMoChap1/deMoChap1.iml" filepath="$PROJECT_DIR$/deMoChap1/deMoChap1.iml" />
+    </modules>
+  </component>
+</project>

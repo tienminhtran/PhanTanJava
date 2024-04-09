@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25,
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": 10021
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "212 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "age": 30,
+    "address": {
+      "streetAddress": "42 Main Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": 90001
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "213 555-7890"
+      },
+      {
+        "type": "work",
+        "number": "310 555-5678"
+      }
+    ]
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Williams",
+    "age": 28,
+    "address": {
+      "streetAddress": "15 Elm Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": 60601
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "312 555-1111"
+      },
+      {
+        "type": "work",
+        "number": "312 555-2222"
+      }
+    ]
+  }
+]

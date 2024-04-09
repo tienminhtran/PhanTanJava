@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CKhanhChap2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CKhanhChap2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chap2DM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chap2DM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DeMoChap2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DeMoChap2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoForkJoinPool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoForkJoinPool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FILE_JSON/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FILE_JSON/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FILE_JSON_LUYEN/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FILE_JSON_LUYEN/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GGGG/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GGGG/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPATien/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPATien/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_DeMo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_DeMo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_ORM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_ORM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_ORM_Student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_ORM_Student/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_Tien/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JPA_Tien/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSON_S/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSON_S/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4jNorthwind/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4jNorthwind/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4jNorthwindTien/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4jNorthwindTien/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4j_CoDeMo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4j_CoDeMo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4l/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Neo4l/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TranMinhTien_21010611_Day2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TranMinhTien_21010611_Day2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap2DeMo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap2DeMo/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
