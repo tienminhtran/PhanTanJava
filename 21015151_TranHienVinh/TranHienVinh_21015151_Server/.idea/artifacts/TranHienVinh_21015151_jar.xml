@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TranHienVinh_21015151:jar">
+    <output-path>$PROJECT_DIR$/../Client/lib</output-path>
+    <root id="archive" name="lib.jar">
+      <element id="directory" name="entity">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Course.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Department.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Instructor.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/OfficeAssignment.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/OnlineCourse.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/OnsiteCourse.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Person.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Student.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/StudentGrade.class" />
+      </element>
+    </root>
+  </artifact>
+</component>
