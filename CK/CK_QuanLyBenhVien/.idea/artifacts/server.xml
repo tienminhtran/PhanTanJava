@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="server">
+    <output-path>$PROJECT_DIR$/../CK_QuanLyBenhVien_Client/lib</output-path>
+    <root id="archive" name="server.jar">
+      <element id="directory" name="entity">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Department.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Doctor.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Patient.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Person.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/entity/Treatment.class" />
+      </element>
+      <element id="directory" name="dao">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/ImplPatientDao.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/ImplDoctorDao.class" />
+        <element id="directory" name="impl">
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/impl/PatientDao.class" />
+          <element id="file-copy" path="$PROJECT_DIR$/target/classes/dao/impl/DoctorDao.class" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
